@@ -9,9 +9,9 @@
 
 📫 How to cottact me:
 
-* [![Luiza Asadullina](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/linkedin_15.png)](https://www.linkedin.com/in/luiza-asadullina-ab707a203/) 
-* [![hedgehog_27](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/telegram_15.png)](https://t.me/hedgehog_27) 
-* [![27hedgehog@gmail.com](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/gmail_15.png)](mailto:27hedgehog@gmail.com) 
+* [![Luiza Asadullina](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/linkedin_15.png)](https://www.linkedin.com/in/luiza-asadullina-ab707a203/)  [Luiza Asadullina](https://www.linkedin.com/in/luiza-asadullina-ab707a203/)
+* [![hedgehog_27](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/telegram_15.png)](https://t.me/hedgehog_27) [hedgehog_27](https://t.me/hedgehog_27)
+* [![27hedgehog@gmail.com](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/gmail_15.png)](mailto:27hedgehog@gmail.com) [27hedgehog@gmail.com](mailto:27hedgehog@gmail.com)
 
 
 
