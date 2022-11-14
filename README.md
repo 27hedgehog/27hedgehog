@@ -7,7 +7,7 @@
 
 💞️ My [resume](https://27hedgehog.github.io/).
 
-📫 How to cottact me:
+📫 How to contact me:
 
 * [![Luiza Asadullina](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/linkedin_15.png)](https://www.linkedin.com/in/luiza-asadullina-ab707a203/)  [Luiza Asadullina](https://www.linkedin.com/in/luiza-asadullina-ab707a203/)
 * [![hedgehog_27](https://github.com/27hedgehog/27hedgehog.github.io/blob/main/telegram_15.png)](https://t.me/hedgehog_27) [hedgehog_27](https://t.me/hedgehog_27)
